@@ -1,4 +1,4 @@
-import ctypes
+import ctype
 import string
 import os
 import time
